@@ -2,7 +2,7 @@ def fibonacci(n):
 
     if n<=1:
 
-        return 1git add hello.py
+        return 1
 
         print("faça de novo")
     elif n>1:
